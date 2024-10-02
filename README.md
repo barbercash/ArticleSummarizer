@@ -1,1 +1,1 @@
-# BookSummarizer
+# Analyzes PDF and summarizes each chapter
