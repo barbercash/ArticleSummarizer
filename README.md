@@ -1,1 +1,1 @@
-# Analyzes PDF and summarizes each chapter
+# Analyze PDFs and create a summary for each chapter
