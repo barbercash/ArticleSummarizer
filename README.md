@@ -34,7 +34,7 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
 3. Install required packages:
 ```bash
-pip install requests beautifulsoup4 transformers torch
+pip install -r requirements.txt
 ```
 
 ## Usage
