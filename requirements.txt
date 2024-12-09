@@ -1,0 +1,18 @@
+# Core Python Libraries
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+
+# Machine Learning and NLP
+transformers>=4.30.0
+torch>=1.13.0
+sentencepiece>=0.1.97
+
+# Optional but recommended
+numpy>=1.23.0
+pillow>=9.4.0
+
+# GUI
+tk>=8.6
+
+# Development and Compatibility
+typing-extensions>=4.5.0
